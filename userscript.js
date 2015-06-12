@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         IGN Video to HTML5
-// @namespace    http://your.homepage/
-// @version      0.1
-// @description  enter something useful
+// @namespace    http://rafasirotheau.com.br
+// @version      1.0.0
+// @description  Converts IGN Player to default HTML5 Video
 // @author       You
 // @match        http://www.ign.com/articles/*
 // @grant        none
